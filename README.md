@@ -3,7 +3,7 @@ SkyHelper V2 is a Mod for Hypixel Skyblock
 ***
 <p align="center">
   <a href="https://github.com/SkyHelper0/SkyHelper-V2/releases">
-    <img alt="downloads" src="https://img.shields.io/badge/release_SkyHelper-v2.0.1pre-yellow" />
+    <img alt="downloads" src="https://img.shields.io/badge/DOWNLOAD_release_SkyHelper-v2.0.1pre-yellow" />
   </a>
 </p>
 A Hypixel Skyblock Utilities mod.
